@@ -1,6 +1,7 @@
-#Dada a lista ['P','A','Y','A','T','A','H','O','N'], conte o número de variáveis 'A' 
-#e utilize um loop para remover todos os 'A' excedente.
-
+"""
+Dada a lista ['P','A','Y','A','T','A','H','O','N'], conte o número de variáveis 'A' 
+e utilize um loop para remover todos os 'A' excedente.
+"""
 Lista = ['P','A','Y','A','T','A','H','O','N']
 print(Lista)
 

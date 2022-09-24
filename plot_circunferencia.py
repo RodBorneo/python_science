@@ -7,7 +7,7 @@ Created on Fri Sep 23 13:10:10 2022
 """
 
 
-#Dada a equação da cirunferência, faça o gráfico.
+#Dada a equação da cirunferência, faça o gráfico!
 #(𝑥−𝑎)2+(𝑦−𝑏)2=𝑟2,𝑟=100,𝑎=100,𝑏=100
 
 from math import sqrt

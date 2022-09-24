@@ -1,4 +1,4 @@
-#A partir do dicionário criado no exercício anterior, recrie as listas keys e valores.
+#A partir do dicionário criado no exercício anterior, recrie as listas keys e valores!
 
 dict = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5}
 

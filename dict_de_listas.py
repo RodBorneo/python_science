@@ -1,4 +1,4 @@
-#Crie um dicionário que correlacione as seguintes listas:
+#Crie um dicionario que correlacione as seguintes listas:
 
 valores = [1,2,3,4,5]
 keys = ['a','b','c','d','e']
